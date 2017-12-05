@@ -1,0 +1,17 @@
+00 Procedure error(s: string);
+01 Function SStrToInt(const s: string): Integer;
+02 Function HexB(b : byte): string;
+03 Procedure GetC;
+04 Function Alpha(c : char) : boolean; 
+05 Function Digit(c : char) : boolean; 
+06 Function AlNum(c : char) : boolean; 
+07 Function White(c : char) : boolean;  
+08 Procedure SkipWhite;  
+09 Function GetKeyWord : string; 
+10 Function GetNum : string; 
+11 Function Scan : string;  
+12 Procedure DrawScreen;
+13 Procedure MemLoad(T: string);
+14 Procedure CPU;
+15 Procedure Execute; 
+

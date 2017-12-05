@@ -1,0 +1,13 @@
+The mnemonics:
+
+DAT (n)um (byte)
+ADD addr.  
+SUB addr.
+LDA 
+STA
+JMP
+JIZ
+CMP
+OUT
+
+
